@@ -1,0 +1,63 @@
+gap_rank,gap_score,fips,county,disabled_veterans,disabled_veterans_moe,veterans,adults_18plus,dv_per_1000_adults,pct_veterans_disabled,program_status,has_lpa,projects_completed,projects_per_1000_dv,funding_awarded,lpas,audit_high_need,audit_high_need_no_applicants
+1,100,36103,Suffolk,13177,788,48220,1211437,10.9,27.3,"Funded, none served yet",yes,0,0.0,300000,Community Development Corporation of Long Island; United Way of Long Island,yes,no
+2,98,36029,Erie,12022,799,43450,758776,15.8,27.7,No applicants,no,0,0.0,0,,yes,yes
+3,97,36081,Queens,9225,775,35435,1868495,4.9,26.0,"Funded, none served yet",yes,0,0.0,48000,Rebuilding Together NYC,yes,no
+4,95,36059,Nassau,9135,645,32220,1090182,8.4,28.4,"Funded, none served yet",yes,0,0.0,150000,Community Development Corporation of Long Island,yes,no
+5,93,36055,Monroe,8277,603,29658,600373,13.8,27.9,No applicants,no,0,0.0,0,,yes,yes
+6,92,36005,Bronx,7293,887,21088,1062254,6.9,34.6,"Funded, none served yet",yes,0,0.0,48000,Rebuilding Together NYC,yes,no
+7,90,36061,New York,6866,964,24063,1403002,4.9,28.5,"Funded, none served yet",yes,0,0.0,48000,Rebuilding Together NYC,yes,no
+8,89,36067,Onondaga,6270,529,20619,371877,16.9,30.4,No applicants,no,0,0.0,0,,yes,yes
+9,87,36001,Albany,4039,482,12394,259611,15.6,32.6,"Applied, not funded",no,0,0.0,0,,no,no
+10,85,36063,Niagara,4035,539,12450,168675,23.9,32.4,No applicants,no,0,0.0,0,,yes,yes
+11,84,36071,Orange,3595,438,15541,298994,12.0,23.1,"Funded, none served yet",yes,0,0.0,50000,Rockland Independent Living Center d.b.a. BRIDGES,no,no
+12,82,36027,Dutchess,3472,438,11695,243280,14.3,29.7,"Funded, none served yet",yes,0,0.0,50000,Rockland Independent Living Center d.b.a. BRIDGES,no,no
+13,80,36085,Richmond,3061,444,10589,387892,7.9,28.9,"Funded, none served yet",yes,0,0.0,48000,Rebuilding Together NYC,no,no
+14,79,36007,Broome,2718,416,9523,159670,17.0,28.5,No applicants,no,0,0.0,0,,no,no
+15,77,36083,Rensselaer,2306,339,7810,129607,17.8,29.5,"Applied, not funded",no,0,0.0,0,,no,no
+16,75,36111,Ulster,2151,358,6469,151345,14.2,33.3,No applicants,no,0,0.0,0,,yes,yes
+17,74,36075,Oswego,2115,337,7445,93539,22.6,28.4,No applicants,no,0,0.0,0,,no,no
+18,72,36089,St. Lawrence,2047,343,5722,85877,23.8,35.8,No applicants,no,0,0.0,0,,yes,yes
+19,70,36069,Ontario,1835,221,6365,90931,20.2,28.8,No applicants,no,0,0.0,0,,no,no
+20,69,36009,Cattaraugus,1723,203,4721,59445,29.0,36.5,No applicants,no,0,0.0,0,,yes,yes
+21,67,36093,Schenectady,1637,317,6724,125872,13.0,24.3,"Applied, not funded",no,0,0.0,0,,no,no
+22,66,36117,Wayne,1277,271,4863,71817,17.8,26.3,No applicants,no,0,0.0,0,,no,no
+23,64,36011,Cayuga,1253,239,4189,60580,20.7,29.9,No applicants,no,0,0.0,0,,no,no
+24,62,36037,Genesee,1174,214,3369,45969,25.5,34.8,No applicants,no,0,0.0,0,,yes,yes
+25,61,36043,Herkimer,1144,204,3646,47558,24.1,31.4,"Funded, none served yet",yes,0,0.0,unknown,Five contracts not sampled by auditors (LPA names not published),yes,no
+26,59,36105,Sullivan,1117,210,3484,62614,17.8,32.1,"Funded, none served yet",yes,0,0.0,50000,Rockland Independent Living Center d.b.a. BRIDGES,yes,no
+27,57,36053,Madison,1107,124,4047,54919,20.2,27.4,No applicants,no,0,0.0,0,,no,no
+28,56,36021,Columbia,1093,194,3191,51367,21.3,34.3,"Funded, none served yet",yes,0,0.0,50000,Rockland Independent Living Center d.b.a. BRIDGES,yes,no
+29,54,36051,Livingston,1071,198,3596,50512,21.2,29.8,No applicants,no,0,0.0,0,,yes,yes
+30,52,36109,Tompkins,1051,241,3260,89766,11.7,32.2,No applicants,no,0,0.0,0,,no,no
+31,51,36003,Allegany,1000,130,2979,37912,26.4,33.6,No applicants,no,0,0.0,0,,yes,yes
+32,49,36079,Putnam,981,214,3416,78980,12.4,28.7,No applicants,no,0,0.0,0,,no,no
+33,48,36017,Chenango,913,139,2827,36747,24.8,32.3,No applicants,no,0,0.0,0,,yes,yes
+34,46,36077,Otsego,909,167,3125,51058,17.8,29.1,No applicants,no,0,0.0,0,,yes,yes
+35,44,36107,Tioga,901,217,3167,38136,23.6,28.4,No applicants,no,0,0.0,0,,no,no
+36,43,36033,Franklin,886,194,2731,37394,23.7,32.4,No applicants,no,0,0.0,0,,yes,yes
+37,41,36031,Essex,843,165,2515,31268,27.0,33.5,No applicants,no,0,0.0,0,,yes,yes
+38,39,36025,Delaware,840,153,2401,37401,22.5,35.0,No applicants,no,0,0.0,0,,yes,yes
+39,38,36099,Seneca,754,170,2013,26235,28.7,37.5,No applicants,no,0,0.0,0,,yes,yes
+40,36,36023,Cortland,710,136,2343,37659,18.9,30.3,No applicants,no,0,0.0,0,,yes,yes
+41,34,36039,Greene,695,179,2834,39710,17.5,24.5,"Applied, not funded",no,0,0.0,0,,no,no
+42,33,36073,Orleans,622,168,2621,32140,19.4,23.7,No applicants,no,0,0.0,0,,no,no
+43,31,36095,Schoharie,596,107,1837,24855,24.0,32.4,"Applied, not funded",no,0,0.0,0,,yes,no
+44,30,36049,Lewis,563,111,1703,20473,27.5,33.1,No applicants,no,0,0.0,0,,yes,yes
+45,28,36121,Wyoming,545,113,2399,32386,16.8,22.7,No applicants,no,0,0.0,0,,no,no
+46,26,36123,Yates,377,87,1343,19081,19.8,28.1,No applicants,no,0,0.0,0,,no,no
+47,25,36041,Hamilton,81,22,386,4474,18.1,21.0,No applicants,no,0,0.0,0,,no,no
+48,23,36047,Kings,9397,773,31586,2046027,4.6,29.8,"Funded, households served",yes,2,0.21,48000,Rebuilding Together NYC,yes,no
+49,21,36065,Oneida,3765,468,12099,179630,21.0,31.1,"Funded, households served",yes,3,0.8,unknown,Five contracts not sampled by auditors (LPA names not published),yes,no
+50,20,36119,Westchester,6196,767,22789,786869,7.9,27.2,"Funded, households served",yes,5,0.81,350000,Family Service Society of Yonkers; Rockland Independent Living Center d.b.a. BRIDGES,yes,no
+51,18,36035,Fulton,1196,202,3478,41949,28.5,34.4,"Funded, households served",yes,1,0.84,unknown,Five contracts not sampled by auditors (LPA names not published),yes,no
+52,16,36013,Chautauqua,2202,270,7295,99683,22.1,30.2,"Funded, households served",yes,2,0.91,unknown,Five contracts not sampled by auditors (LPA names not published),no,no
+53,15,36087,Rockland,1696,280,6470,240154,7.1,26.2,"Funded, households served",yes,3,1.77,50000,Rockland Independent Living Center d.b.a. BRIDGES,no,no
+54,13,36101,Steuben,1683,211,6466,72654,23.2,26.0,"Funded, households served",yes,3,1.78,66667,Arbor Housing & Development,no,no
+55,11,36015,Chemung,1645,281,5658,64890,25.4,29.1,"Funded, households served",yes,3,1.82,66667,Arbor Housing & Development,no,no
+56,10,36057,Montgomery,930,176,2757,38021,24.5,33.7,"Funded, households served",yes,2,2.15,150000,Rebuilding Together Saratoga County,yes,no
+57,8,36019,Clinton,1632,261,4993,64277,25.4,32.7,"Funded, households served",yes,4,2.45,unknown,Five contracts not sampled by auditors (LPA names not published),yes,no
+58,7,36045,Jefferson,2596,363,9861,77501,33.5,26.3,"Funded, households served",yes,8,3.08,unknown,Five contracts not sampled by auditors (LPA names not published),yes,no
+59,5,36113,Warren,1161,227,3816,53979,21.5,30.4,"Funded, households served",yes,4,3.45,250000,Rebuilding Together Saratoga County,yes,no
+60,3,36097,Schuyler,299,78,1171,14197,21.1,25.5,"Funded, households served",yes,2,6.69,66667,Arbor Housing & Development,no,no
+61,2,36091,Saratoga,3237,398,12878,192216,16.8,25.1,"Funded, households served",yes,28,8.65,250000,Rebuilding Together Saratoga County,no,no
+62,0,36115,Washington,1144,238,3973,49307,23.2,28.8,"Funded, households served",yes,11,9.62,250000,Rebuilding Together Saratoga County,no,no
